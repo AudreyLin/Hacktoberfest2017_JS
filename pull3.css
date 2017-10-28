@@ -1,0 +1,22 @@
+body {
+background-image: url("https://s19.postimg.org/ypl00zh6r/androidhalloween.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-color: black;
+text-align: center;
+font-family: timesnewroman, serif;
+font-size: 34px;
+font-weight: bold;
+color: orange;
+
+
+
+}
+
+button {
+  background-color: orange;
+  text-align: center;
+  padding: 15px 32px;
+  font-size: 20px;
+}
